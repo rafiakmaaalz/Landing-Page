@@ -1,2 +1,2 @@
 # Landing-Page
-Landing page basic with html and css
+basic landing page from progate using html and css
